@@ -9,6 +9,6 @@ import javax.annotation.Resource;
 public class test {
     @RequestMapping("/hello")
     public String test(){
-        return "helloworld";
+        return "helloworld123456";
     }
 }
